@@ -7,8 +7,8 @@ abstract class Funcionario(
 ): Pessoa(nome,cpf) {
     protected abstract fun calculoAuxilio():  Double
     override fun toString(): String = """
-        Nome: $nome
-        Cpf: $cpf
+           Nome: $nome
+            CPF: $cpf
         Salário: $salario
         Auxílio: ${calculoAuxilio()}
     """.trimIndent()

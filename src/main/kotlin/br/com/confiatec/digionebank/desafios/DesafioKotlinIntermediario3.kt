@@ -1,5 +1,3 @@
-package br.com.confiatec.digionebank.testes
-
 import kotlin.math.min
 import kotlin.math.sqrt
 

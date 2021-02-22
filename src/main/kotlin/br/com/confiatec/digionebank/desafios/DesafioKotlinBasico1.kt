@@ -1,5 +1,3 @@
-package br.com.confiatec.digionebank.testes
-
 import java.util.Scanner
 
 fun main(args: Array<String>) {

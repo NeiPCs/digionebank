@@ -1,5 +1,3 @@
-package br.com.confiatec.digionebank.testes
-
 fun main(args: Array<String>) {
     //insira as variaveis corretamente
     var r = 0

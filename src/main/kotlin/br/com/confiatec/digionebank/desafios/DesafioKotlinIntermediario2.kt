@@ -1,5 +1,3 @@
-package br.com.confiatec.digionebank.testes
-
 import java.math.BigDecimal
 import java.math.RoundingMode
 
